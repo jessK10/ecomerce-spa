@@ -58,8 +58,15 @@ ECOMMERCE-SPA/
 
 ## 🧪 Demo
 
-[![Netlify Badge](https://img.shields.io/badge/Live-Netlify-brightgreen?style=flat-square&logo=netlify)](https://your-netlify-link.netlify.app)  
-> *(Replace the above link after deployment)*
+!Netlify Badge
+https://techxpress-web.netlify.app/  
+
+
+## 💻 GitHub Repository
+
+📂 [View Source Code on GitHub]
+https://github.com/jessK10/ecomerce-spa
+
 
 ---
 
@@ -72,5 +79,3 @@ npm install
 npm run dev
 
 
-
-Then open http://localhost:5173
